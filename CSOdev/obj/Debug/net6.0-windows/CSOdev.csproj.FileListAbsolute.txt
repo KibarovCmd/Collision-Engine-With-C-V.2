@@ -1,0 +1,17 @@
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\bin\Debug\net6.0-windows\CSOdev.exe
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\bin\Debug\net6.0-windows\CSOdev.deps.json
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\bin\Debug\net6.0-windows\CSOdev.runtimeconfig.json
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\bin\Debug\net6.0-windows\CSOdev.dll
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\bin\Debug\net6.0-windows\CSOdev.pdb
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.csproj.AssemblyReference.cache
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.Form1.resources
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.csproj.GenerateResource.cache
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.AssemblyInfoInputs.cache
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.AssemblyInfo.cs
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.csproj.CoreCompileInputs.cache
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.dll
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\refint\CSOdev.dll
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.pdb
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\CSOdev.genruntimeconfig.cache
+C:\Users\ASLAN\OneDrive\Masaüstü\Ödev\CSOdev\CSOdev\obj\Debug\net6.0-windows\ref\CSOdev.dll
